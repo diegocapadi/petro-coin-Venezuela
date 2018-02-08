@@ -1,4 +1,6 @@
 # petro-coin-Venezuela
+The petro white paper can be found here: http://www.elpetro.gob.ve/index-en.html
+
 el petro / creating a proposal for the Venezuelan concurrency  petro
 
 Good morning all.
